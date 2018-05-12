@@ -1,0 +1,46 @@
+_repo: The-Lovers-Assistant--Or-New-Art-of-Love_31036
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Ovid
+    alias: Ovidius Naso, Publius
+    birthdate: -43
+    deathdate: 17
+    gutenberg_agent_id: '2868'
+    url: http://www.gutenberg.org/2009/agents/2868
+    wikipedia: http://en.wikipedia.org/wiki/Ovid
+  - agent_name: Fielding, Henry
+    aliases:
+    - Vinegar, Hercules
+    - Drawcansir, Alexander, Sir
+    - Gualterus, Petrus
+    - Keyber, Conny
+    - Trottplaid, John
+    birthdate: 1707
+    deathdate: 1754
+    gutenberg_agent_id: '537'
+    url: http://www.gutenberg.org/2009/agents/537
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Fielding
+  editor:
+    agent_name: Jones, Claude Edward
+    birthdate: 1907
+    gutenberg_agent_id: '34970'
+    url: http://www.gutenberg.org/2009/agents/34970
+description: ''
+gutenberg_issued: '2010-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31036'
+  lccn: '62053681'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Seduction -- Poetry'
+- !lcc 'PA'
+title: The Lovers Assistant; Or, New Art of Love
+url: http://www.gutenberg.org/ebooks/31036
